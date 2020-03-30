@@ -1,0 +1,7 @@
+Web/.vs/*
+Web/Web/node_modules/*
+Web/Web/bin/*
+Web/Web/obj/*
+Web/Web/obj/Debug/*
+Web/Web.csproj.user
+Web/Web/Web.csproj.user
