@@ -1,2 +1,2 @@
 # ProyectoSecreto
-Sitio picantee
+Sitio picante
